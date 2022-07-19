@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @CarlosHenrique21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning language in python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me carlosjoymax54@gmail.com
+- 👋 Olá, meu nome é Carlos Henrique!
+- 🌱 Atualmente estou cursando o Bacharelado em Inteligência Artificial - UFG
+- 🏗️ Técnico em Edificações - IFG
+- 📫 Se deseja entrar em contato comigo: carlosjoymax54@gmail.com
+
+Estou apto a aprender e conhecer cada vez mais, trabalho principalmente com a linguagem em python.
+A cada dia querendo me tornar uma melhor versão de mim!
 
 <!---
 CarlosHenrique21/CarlosHenrique21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
